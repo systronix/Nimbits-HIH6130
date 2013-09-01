@@ -1,0 +1,6 @@
+Arduino parameters for accessing Data point temperature
+
+https://smartstatmicrodata.appspot.com
+owner email: Semesa2@gmail.com
+access key: 3cad4cad-5cad-6cad-7cad-8cad-9cad10c
+point id: semesa2@gmail.com/temperature

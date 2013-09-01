@@ -1,0 +1,46 @@
+wfetch_4_Parameters.txt
+============
+Nimbits smartstatmicrodata Setup
+--------------------------------
+
+
+WFetch Setup
+------------
+Verb: POST
+Host: smartstatmicrodata.appspot.com
+Port: default
+Version: 1.1
+Path: /service/v2/value?id=semesa2@gmail.com/temperature&email=Semesa2@gmail.com&key=3cad4cad-5cad-6cad-7cad-8cad-9cad10c&json={"d":25.9}
+
+Authentication
+--------------
+Auth: Anonymous
+Domain:
+User:
+Passwd:
+
+Connection
+----------
+Connect: https
+Cipher: default
+Client cert: NONE
+___Proxy___:___
+___Trace
+
+Socket
+------
+_x_Reuse
+
+Advanced Request:
+----------------
+Add Headers&Body ___ from file
+Cache-Control:max-age=0\r\n
+\r\n
+Content-Type: application/x-www-form-urlencoded\r\n
+r\n
+Content-Length: 101\r\n
+r\n
+
+Request summary from log
+-------------------------
+POST /service/v2/value?id=semesa2@gmail.com/temperature&email=Semesa2@gmail.com&key=3cad4cad-5cad-6cad-7cad-8cad-9cad10c&json={"d":25.9} HTTP/1.1\r\n
