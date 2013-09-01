@@ -84,7 +84,7 @@ void setup(void)
    Serial.println("HIH6130 Nimbits 2013 Aug 31"); 
    delay(3000);  // wait for all devices to stabilize and complete any internal startup
    Serial.print("Sample interval ");  // just to be sure things are working
-   dtime = MIN_1;  //delay between readings
+   dtime = MIN_15;  //delay between readings
    Serial.print(dtime/1000);
    Serial.println(" sec");
    
